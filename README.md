@@ -13,3 +13,5 @@ Built around a standard ESP32 microcontroller, dedicated ADCs (AD7606), and DACs
 * **Python-Driven Automation:** Plug-and-play scripts to automate I-V sweeps, associative memory protocols, and real-time visualization without needing embedded systems expertise.
 
 This repository contains everything needed to replicate the platform: PCB Gerber files, schematics, ESP32 firmware, and the Python control library.
+
+Feel free to reach out with any questions or to request the files at juan.diaz@ib.edu.ar.
